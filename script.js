@@ -12,9 +12,9 @@ let employees = [
 ];
 
 let allEmployees = document.querySelector('#all-emp-btn');
-document.addEventListener('load', function() {
+ function loadFun() {
     displayData(employees);
-});
+};
 allEmployees.addEventListener('click', () => {
         displayData(employees);
     });
