@@ -1,0 +1,14 @@
+#test{
+    margin: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    color: aqua;
+}
+#greeting{
+    margin: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: lightblue;
+}

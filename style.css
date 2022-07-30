@@ -1,0 +1,10 @@
+thead{
+    background-color: black;
+    color: white;
+}
+.btn{
+    margin: 5px 15px;
+}
+#search-box{
+    width: 250px;
+}
